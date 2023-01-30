@@ -4,6 +4,11 @@ Implementation in Python of data analysis and machine learning programs utilizin
 
 
 ### How to Use?
+
+#### Clone the Repository
+```bash
+$ git clone https://github.com/alexandreclem/SupervisedLearning-with-Python.git
+```
 #### Dependencies
 ```bash
 * keras==2.10.0
